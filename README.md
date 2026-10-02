@@ -1,10 +1,10 @@
-# 🔬 Meta-Evaluation Framework for AI Models
+#  Meta-Evaluation Framework for LLMs
 
 A research-grade AI benchmarking and stress-testing system designed to evaluate Large Language Model (LLM) outputs using semantic understanding and data-driven "Meta-Evaluation" techniques.
 
 ---
 
-## 🚀 Key Framework Upgrades 
+##  Key Framework Upgrades 
 
 ###  Upgrade 1: Learning to Rank (AIML Core)
 Replaced arbitrary heuristic weights with a **Ridge Regression model** trained on human preference datasets (Achieved **R²=0.89** in cross-validation). The aggregator now learns how highly a human would value Relevance vs. Quality vs. Bias.
@@ -21,7 +21,7 @@ Scalable software engineering for large-scale benchmarks:
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 ```text
 metaevalai/
@@ -44,7 +44,7 @@ metaevalai/
 └── train_weights.py     # Training script for Upgrade 1
 ```
 
-## 🏗️ Getting Started
+##  Getting Started
 
 1. **Setup**:
    ```bash
@@ -63,7 +63,7 @@ metaevalai/
 
 ---
 
-## 🔬 Methodology Brief
+##  Methodology Brief
 - **"The Ground Truth"**: In RAG mode, the *Context* provided by the user is the truth. In standard mode, the framework uses **Cross-Model Consistency** (Consensus) to determine factual reliability between Model A, B, and C outputs.
 - **Inference Models**:
   - `all-MiniLM-L6-v2` for embeddings.
