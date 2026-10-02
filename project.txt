@@ -1,0 +1,529 @@
+ (A typical Specimen of Cover Page & Title Page)
+<Font Style Times New Roman - Bold>
+PROJECT TITLE
+<Font Size 18> <1.5 line spacing>
+21CSP302L- PROJECT 
+<Font Size 14>
+Submitted by
+<Font Size 14> <Italic>
+STUDENT1 NAME [REG NUM]
+ STUDENT2 NAME [REG NUM]
+<Font Size 16>
+Under the Guidance of
+<Font Size 14> <Italic>
+(GUIDE NAME )
+<Font Size 16>
+(Designation, Department)
+<Font Size 12>
+
+in partial fulfillment of the requirements for the degree of
+<Font Size 14> <1.5 line spacing>
+BACHELOR OF TECHNOLOGY
+in
+COMPUTER SCIENCE ENGINEERING 
+with specialization in (SPECIALIZATION NAME)
+<Font Size 16>
+
+
+DEPARTMENT OF COMPUTATIONAL INTELLIGENCE COLLEGE OF ENGINEERING AND TECHNOLOGY
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+KATTANKULATHUR- 603 203
+
+<Font Size 16><l.5 line spacing>
+            MAY  2026<Font Size 14>
+ 
+
+Department of Computational Intelligence
+SRM Institute of Science & Technology
+Own Work Declaration Form
+
+This sheet must be filled in (each box ticked to show that the condition has been met). It must be signed and dated along with your student registration number and included with all assignments you submit – work will not be marked unless this is done.
+To be completed by the student for all assessments
+
+Degree/ Course	:
+
+Student Name	:
+
+Registration Number	:
+
+Title of Work	:
+I / We hereby certify that this assessment compiles with the University’s Rules and Regulations relating to Academic misconduct and plagiarism, as listed in the University Website, Regulations, and the Education Committee guidelines.
+
+I / We confirm that all the work contained in this assessment is my / our own except where indicated, and that I / We have met the following conditions:
+
+•	Clearly referenced / listed all sources as appropriate
+•	Referenced and put in inverted commas all quoted text (from books, web, etc)
+•	Given the sources of all pictures, data etc. that are not my own
+•	Not made any use of the report(s) or essay(s) of any other student(s) either past or present
+•	Acknowledged in appropriate places any help that I have received from others (e.g. fellow students, technicians, statisticians, external sources)
+•	Compiled with any other plagiarism criteria specified in the Course handbook / University website
+I understand that any false claim for this work will be penalized in accordance with the University policies and regulations.
+
+DECLARATION:
+I am aware of and understand the University’s policy on Academic misconduct and plagiarism and I certify that this assessment is my / our own work, except where indicated by referring, and that I have followed the good academic practices noted above.
+
+
+<<Student 1 Name &Sign>>             <<Student 2 Name &Sign>>            <<Student 3 Name &Sign>>
+If you are working in a group, please write your registration numbers and sign with the date for every student in your group.
+
+
+
+
+
+
+
+
+
+
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY KATTANKULATHUR – 603 203
+<Font Style Times New Roman — Size - 18>
+BONAFIDE CERTIFICATE
+<Font Style Times New Roman — Size - 16>
+<Font Style Times New Roman — Size - 14>
+
+
+Certified that 21CSP302L - Project report titled “PROJECT TITLE ” is the bonafide work of “STUDENT1 NAME [REG NUM], STUDENT2 NAME [REG NUM]” who carried out the project work under my supervision. Certified further, that to the best of my knowledge the work reported herein does not form any other project report or dissertation on the basis of which a degree or award was conferred on an earlier occasion on this or any other candidate.
+
+
+
+
+                 	     <<Signature >>                                                        <<Signature >>
+	                                   		             
+SIGNATURE
+Dr. ABCD
+SUPERVISOR
+Professor 
+DEPARTMENT OF
+COMPUTATIONAL INTELLIGENCE		SIGNATURE
+DR. R. ANNIE UTHRA
+PROFESSOR &HEAD
+DEPARTMENT OF
+COMPUTATIONAL INTELLIGENCE
+
+
+
+
+
+ 
+
+
+               EXAMINER 1                                                                                            EXAMINER 2
+              Name & Signature						          Name & Signature
+
+
+
+
+
+
+
+
+ACKNOWLEDGEMENTS
+              
+We express our humble gratitude to Dr. C. Muthamizhchelvan, Vice-Chancellor, SRM Institute of Science      and Technology, for the facilities extended for the project work and his continued support.
+
+ We extend our sincere thanks to Dr. Leenus Jesu Martin M, Dean-CET, SRM Institute of Science and Technology, for his invaluable support. 
+
+ We wish to thank Dr. Revathi Venkataraman, Professor and Chairperson, School of Computing, SRM Institute of Science and Technology, for her support throughout the project work. 
+
+ We encompass our sincere thanks to, Dr. M. Pushpalatha, Professor and Associate Chairperson - CS, School of Computing and Dr.C. Lakshmi, Professor and Associate Chairperson -AI, School of Computing, SRM Institute of Science and Technology, for their invaluable support.
+
+ We are incredibly grateful to our Head of the Department, <<Name , Designation & Department>>, SRM Institute of Science and Technology, for her suggestions and encouragement at all the stages of the project work. 
+
+We want to convey our thanks to our Project Coordinators, Panel Head, and Panel Members Department of Computational Intelligence, SRM Institute of Science and Technology, for their inputs during the project reviews and support.
+ 
+ We register our immeasurable thanks to our Faculty Advisor, ..................., Department of <<Dept. Name>>, SRM Institute of Science and Technology, for leading and helping us to complete our course.
+ 
+Our inexpressible respect and thanks to our guide, ....................., Department of <<Dept. Name>>,  SRM Institute of Science and Technology, for providing us with an opportunity to pursue our project under his / her mentorship. He / She provided us with the freedom and support to explore the research topics of our interest. His / Her passion for solving problems and making a difference in the world has always been inspiring. 
+
+We sincerely thank all the staff members of <<Dept. Name>>, School of Computing, S.R.M Institute of Science and Technology, for their help during our project. Finally, we would like to thank our parents, family members, and friends for their unconditional love, constant support and encouragement
+
+							
+												
+
+
+													Authors
+
+
+
+ABSTRACT
+
+ 
+<Font Style Times New Roman, Font Size 14>
+TABLE OF CONTENTS
+ABSTRACT											v
+
+TABLE OF CONTENTS									vi
+
+LIST OF FIGURES										vii
+
+LIST OF TABLES										viii
+
+ABBREVIATIONS										 ix
+
+CHAPTER 			 TITLE 						       PAGE 
+NO.											           NO.
+
+1	INTRODUCTION									1
+1.1	Introduction to Project								2
+1.2	Problem Statement and Description					            	3
+1.3	 Motivation										4
+1.4	Sustainable Development Goal of the Project					5
+2	LITERATURE SURVEY								6
+	2.1 Overview of the Research Area								7
+	2.2 Existing Models and Frameworks							8
+	2.3 Limitations Identified from Literature Survey (Research Gaps)			11
+      2.4 Research Objectives									12
+	2.5 Product Backlog (Key user stories with Desired outcomes)			   	13
+      2.5 Plan of Action (Project Road Map)                                                                              15
+	
+3   SPRINT PLANNING AND EXECTION METHODOLOGY			21
+	3.1 SPRINT I <<Title of Sprint I	>>							21
+		3.1.1 Objectives with user stories of Sprint I						23
+		3.1.2 Functional Document								25
+		3.1.3 Architecture Document								28
+		3.1.4 Outcome of objectives/ Result Analysis						29
+		3.1.5 Sprint Retrospective								30		3.2 SPRINT II  <<Title of Sprint II >>							31
+		3.2.1 Objectives with user stories of Sprint II					32
+		3.2.2 Functional Document								33
+		3.2.3 Architecture Document								34
+		3.2.4 Outcome of objectives/ Result Analysis						35
+		3.2.5 Sprint Retrospective								36
+
+	
+6    RESULTS AND DISCUSSIONS							37
+	6.1 Project Outcomes (Performance Evaluation, Comparisons, Testing Results	)	38		
+7    CONCLUSION AND FUTURE ENHANCEMENT					39
+REFERENCES										40
+APPENDIX											41
+ A  CODING											43
+ B  CONFERENCE PUBLICATION							48
+ C  JOURNAL PUBLICATION								50
+ D  PLAGIARISM REPORT								51
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIST OF FIGURES
+
+CHAPTER 			 TITLE 						       PAGE 
+NO.											           NO.
+
+     2.1	Thresholding segmentation in action on the skin lesion image input	. .	4
+2.2	Computer Vision Pipeline . . . . . . . . . . . . . . . . . . . . . . . . . .	5
+
+3.1	ROC curve CNN and dermatologists . . . . . . . . . . . . . . . . . . . .	8
+3.2	confusion matrix with CNN vs doctors . . . . . . . . . . . . . . . . . . .	10
+3.3	Adam optimizer error rate . . . . . . . . . . . . . . . . . . . . . . . . .	11
+
+4.1	Sample lesions from each class . . . . . . . . . . . . . . . . . . . . . . .	13
+4.2	File structure of dataset . . . . . . . . . . . . . . . . . . . . . . . . . . .	13
+4.3	Diagnosis Techniques Plot . . . . . . . . . . . . . . . . . . . . . . . . . .	15
+4.4	Number of data points of each class   . . . . . . . . . . . . . . . . . . . .	16
+4.5	Effect of SMOTE and number of variables on KNN (Euclidean Distance)	17
+4.6	YOLO CNN Layers . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	19
+4.7	ANN sample architecture . . . . . . . . . . . . . . . . . . . . . . . . . .	23
+4.8	Convolution Layer simulation	. . . . . . . . . . . . . . . . . . . . . . .	25
+4.9	Pooling layer simulation . . . . . . . . . . . . . . . . . . . . . . . . . . .	26
+
+
+
+
+
+
+
+
+
+
+vii
+
+
+
+
+
+
+LIST OF TABLES
+
+
+CHAPTER 			 TITLE 						        PAGE 
+                      NO.										            NO.			
+
+     2.1	Thresholding segmentation in action on the skin lesion image input	. .	4
+2.2	Computer Vision Pipeline . . . . . . . . . . . . . . . . . . . . . . . . . .	5
+
+3.3	ROC curve CNN and dermatologists . . . . . . . . . . . . . . . . . . . .	8
+3.4	confusion matrix with CNN vs doctors . . . . . . . . . . . . . . . . . . .	10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+viii
+
+
+
+ABBREVIATIONS
+
+AES	Advanced Encryption Standard
+ANN	Artificial Neural Network CNN	Colvonutional Neural Network CSS	Cascading Style Sheet
+CV	Computer Vision
+DB	Database
+DNA	Deoxyribo Neucleic Acid
+GCP	Google Cloud Platform
+HAM	Human Against Machine HTML	Hyper Text Markup Language HTTP	Hyper Text Transfer Protocol JS	Javascript
+KNN	K Nearest Neighbours
+MNIST	Modified National Institute of Standards and Technology
+PWA	Progressive Web App
+RNA	Ribo Neucleic Acid
+ROC	Receiver Operating Characteristic
+SASS	Syntactically Awesome Style Sheets SMOTE
+
+
+
+
+
+
+
+
+
+
+
+ix
+
+
+
+
+
+CHAPTER 1
+
+
+INTRODUCTION
+
+
+1.1	Subtitle 1
+Font style for entire report must be times new roman. Chapter number and title must be capitalized with font size of 16pt bold. Subtitle 1 is 16pt with each word capitalized with bold. Subsection under a subtitle is 12pt with bold, each letter capitalized. All the content of the document is 12pt size with 1.5 Spacing.  Left margin 1 inch and right margin 0.5 inch. Use justify option for both left and right alignment. A paragraph may contain maximum of 12 lines and an empty space to be left between each paragraph. 
+
+All figures must be numbered with corresponding chapter number like Fig 1.1, Fig 1.2 etc for chapter 1 and Fig 2.1, Fig 2.2 etc for chapter 2 and so on.. with figures in center alignment and the caption to be mentioned below the figure.
+
+Fig 3.1: ROC curve CNN and dermatologists
+
+
+All tables must be numbered with corresponding chapter number like Table 1.1, Table 1.2 etc for chapter 1 and Table 2.1, Table 2.2 etc for chapter 2 and so on.. with tables in center alignment and the caption to be mentioned above the Table.
+
+Every chapter must start in new page. Page numbers are started from chapter 1 and to be included till the end of the report. Page numbers can be given at the bottom of the page with center alignment. 
+
+
+1
+
+
+
+All references must be cited inside the text with sequential numbers[1] and to be listed in the same order in references. Two articles can be cited as [4,5] and multiple references can be cited as [7-10]. Minimum 15 references to be included. 
+
+Proofs must be included for all publications and plagiarism report to be generated using turnitin with the help of your guide with similarity index less than or equal to 10 percent.  Total number of pages in the report is minimum 30 excluding coding and screenshots. 
+
+
+
+
+
+
+
+ 
+            REFERENCES
+
+ [1] 	Ning, X., and Lovell, M. R., “On the Sliding Friction Characteristics of Unidirectional Continuous FRP Composites,” ASME J. Tribol., 124(1), pp. 5-13, 2002.
+ [2] 	Barnes, M., “Stresses in Solenoids,” J. Appl. Phys., 48(5), pp. 2000–2008, 2001.
+ [3] Jones, J., (2000), Contact Mechanics, Cambridge University Press, Cambridge, UK, Chap. 6.
+ [4]	 Lee, Y., Korpela, S. A., and Horne, R. N., “Structure of Multi-Cellular Natural Convection in a Tall Vertical Annulus,” Proc. 7th International Heat Transfer Conference, U. Grigul et al., eds., Hemisphere, Washington, DC, 2, pp. 221–226, 1982.
+ [5] 	Hashish, M., “600 MPa Waterjet Technology Development,” High Pressure Technology, PVP-Vol. 406, pp. 135-140, 2000. 
+[6]	 Watson, D. W., “Thermodynamic Analysis,” ASME Paper No. 97-GT-288, 1997. [7] Tung, C. Y., (1982), “Evaporative Heat Transfer in the Contact Line of a Mixture,” Ph.D. thesis, Rensselaer Polytechnic Institute, Troy, NY.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX A
+
+CODING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX B
+
+
+CONFERENCE PRESENTATION
+
+
+Our paper on Hybrid application based skin lesion analyzer using deep neural networks was presented at ICIOT 2020 conference held at SRM. 200+ shortlisted teams presented their papers on various fields in the conference. Our paper got accepted as paper id : 25 with a plagiarism of just 2 %.
+
+
+Figure A.1: ICIOT 2020 Acceptance
+
+On presenting the paper in this international conference held at SRM KTR campus, we received positive remarks and suggestion from the judging panel. We were then awarded the best paper award at the same conference.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Figure A.2: ICIOT 2020 Best Paper award
+
+
+
+
+
+
+
+
+
+83
+ 
+APPENDIX C
+
+
+PUBLICATION DETAILS
+
+
+We submitted our research paper for publication at IJPR publication house puducherry. We had selected the journal International Journal of Psychosocial Rehabilitation (ISSN: 1475- 7192). We got the acceptance notification from the IJPR stating our paper has been published in the April Issue of the same journal. Proof of publication is attached in figure B.1 The research
+
+
+Figure B.1: Publication Notification
+
+paper cover page has been attached below.
+ 
+International Journal of Psychosocial Rehabilitation, Vol. 24, Issue 08, 2020 ISSN: 1475-7192
+Hybrid Application Based Skin Lesion Analyzer Using Deep Neural Networks
+1S. Poornima, 2Shivang Kaul, 3Yash Aggarwal, 4M. Pushpalatha
+
+Abstract--Skin cancer with more than 5 million cases reported every year. Early detection can increase the probability of survival. In recent study it was shown neural networks outperform medical board certified doctors in classifying lesions as cancerous. We intend to build a whole system encompassing Image capturing processing it by neural net , sending the response back to the device and formulating a report for the user. We intent to use CNNs to classify the image of skin lesion into 7 categories of cancerous lesions: Melanoma, Benign Keratosis, Actinic Keratoses, Dermatofibroma, Vascular skin lesion and Basal Cell Carcinoma. Our goal is to make the system easily usable by untrained users and make detecting skin cancer easy with higher efficiency.
+Key words--Neural Networks, Image Processing, Convolu-tional Neural Networks, Skin Cancer Detection, Skin Lesion Imaging, App Development, Localization Algorithms, Cloud Computing, GCP, Compute Engine, App Engine.
+ 
+I.	INTRODUCTION
+
+Skin Cancer is a major kind of cancer with around 5 million reported cases worldwide every year. The major cause of skin cancer is exposure to UV rays. Diagnosing skin cancer generally included the skin lesion being examined by a doctor. Recent studies have shown neural networks to be more efficient in classifying lesion as cancerous as compared to trained doctors. Misdiagnosing or late detection of cancer can lead to a higher mortality rate and less chance of cure. The goal of this project is making detection and classification of lesions on the skin easier. Not all the marks on skin are a matter of concern but early detection and treatment of cancer can save lives. So this gives the user a way to check if there’s a chance of the mark on your skin being cancerous. The aim of this project is to detect and analyse such a correlation using neural networks. It is expected that the outcome of this project will lead to automated classification of skin lesions.
+II.	LITERATURE SURVEY
+
+The following papers were read and analysed for the refer-ence of this paper. A brief image has been presented here.
+1) Andre Esteva et al. 2017,” Dermatologist-level classification of skin cancer with deep neural networks.” Contribution: Claimed to classify skin lesions at par with board trained dermatologists. Methodology used:
+
+
+
+1Assistant Professor, CSE Department, SRMIST, Chennai, India
+2Assistant Professor, CSE Department, SRMIST, Chennai, India, shangkaul@gmail.com 3Assistant Professor, CSE Department, SRMIST, Chennai, India, yaggarwal58@gmail.com 4Assistant Professor, CSE Department, SRMIST, Chennai, India
+
+DOI: 10.37200/IJPR/V24I8/PR280274
+Received: 21 Jan 2020 | Revised: 08 Feb 2020 | Accepted: 14 Mar 2020	2545
+ 
+APPENDIX D
+PLAGIARISM REPORT
+ 
+  

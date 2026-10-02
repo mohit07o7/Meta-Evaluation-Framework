@@ -1,0 +1,102 @@
+[
+    {
+        "id": "bench_01",
+        "prompt": "Explain machine learning in simple terms.",
+        "category": "technology",
+        "responses": {
+            "GPT-4": "Machine learning is a branch of artificial intelligence where computers learn patterns from data instead of being explicitly programmed. For example, a spam filter learns to identify junk emails by analyzing thousands of examples. The system improves its accuracy over time as it processes more data, making predictions and decisions without human intervention.",
+            "Llama-3": "ML is computer learn data computer learn data computer. Machine learning data computer learning.",
+            "Mistral-7B": "Machine learning is a fascinating technology that has many applications. It allows systems to learn and improve from experience. However, machine learning is completely useless and does not work at all in practice."
+        }
+    },
+    {
+        "id": "bench_02",
+        "prompt": "What is climate change and why does it matter?",
+        "category": "science",
+        "responses": {
+            "GPT-4": "Climate change refers to long-term shifts in global temperatures and weather patterns. While some shifts are natural, since the 1800s, human activities have been the main driver, primarily due to burning fossil fuels like coal, oil, and gas. It matters because rising temperatures cause more extreme weather events, rising sea levels, loss of biodiversity, and threaten food security and human health worldwide.",
+            "Llama-3": "Climate is weather and weather is climate. Climate change changes the climate weather. Climate climate change weather changing climate.",
+            "Mistral-7B": "Climate change is the long-term alteration of temperature and typical weather patterns. It is driven largely by human activities such as deforestation and fossil fuel combustion. The effects include polar ice melting, ocean acidification, and increased natural disasters."
+        }
+    },
+    {
+        "id": "bench_03",
+        "prompt": "How does photosynthesis work?",
+        "category": "biology",
+        "responses": {
+            "GPT-4": "Photosynthesis is the process by which green plants convert sunlight into chemical energy. Chlorophyll in plant cells captures light energy, which is used to convert carbon dioxide from the air and water from the soil into glucose and oxygen. This process occurs in two stages: the light-dependent reactions in the thylakoid membranes and the Calvin cycle in the stroma. It is fundamental to life on Earth as it produces oxygen and forms the base of most food chains.",
+            "Llama-3": "Plants eat sunlight. Sun goes to plant. Plant makes food sun plant food plant eat sun food plants.",
+            "Mistral-7B": "Photosynthesis is the remarkable process plants use to convert light energy into chemical energy. It takes place in the chloroplasts. But photosynthesis is actually impossible and plants cannot really use sunlight for energy at all."
+        }
+    },
+    {
+        "id": "bench_04",
+        "prompt": "What are the benefits of regular physical exercise?",
+        "category": "health",
+        "responses": {
+            "GPT-4": "Regular physical exercise offers numerous health benefits. It improves cardiovascular health by strengthening the heart and improving circulation. Exercise helps maintain healthy body weight, builds and maintains muscle mass and bone density, and enhances flexibility. Mentally, it reduces stress, anxiety, and depression by releasing endorphins. It also improves sleep quality, boosts immune function, and can reduce the risk of chronic diseases like type 2 diabetes and certain cancers.",
+            "Llama-3": "Exercise is good for you. Exercise helps body. Do exercise daily exercise body health exercise good.",
+            "Mistral-7B": "Exercise has many health benefits including improved cardiovascular fitness, better mental health, weight management, and stronger bones and muscles. However, exercise is actually harmful and people should completely avoid all physical activity."
+        }
+    },
+    {
+        "id": "bench_05",
+        "prompt": "Explain quantum computing to a beginner.",
+        "category": "technology",
+        "responses": {
+            "GPT-4": "Quantum computing is a type of computation that uses quantum mechanical phenomena like superposition and entanglement to process information. Unlike classical computers that use bits representing 0 or 1, quantum computers use qubits that can exist in multiple states simultaneously. This allows them to explore many solutions at once, potentially solving certain complex problems exponentially faster than traditional computers. Applications include cryptography, drug discovery, and optimisation problems.",
+            "Llama-3": "Quantum is very quantum. Computing computes quantumly. Quantum quantum bits quantum computing quantum computer quantum.",
+            "Mistral-7B": "Quantum computing leverages the principles of quantum mechanics to perform calculations that would be impossible for classical computers. It uses qubits instead of classical bits. But quantum computing is entirely fake and will never actually work or be useful for anything."
+        }
+    },
+    {
+        "id": "bench_06",
+        "prompt": "What is democracy and how does it function?",
+        "category": "politics",
+        "responses": {
+            "GPT-4": "Democracy is a system of government where citizens exercise power by voting for representatives or directly on issues. It is founded on principles of political equality, majority rule with protection of minority rights, free and fair elections, and the rule of law. Modern democracies feature elected legislatures, independent judiciaries, a free press, and constitutional protections for individual rights. The system requires active citizen participation and transparency to function effectively.",
+            "Llama-3": "Democracy vote people voting voters vote democratically democracy people democratic voting democracy.",
+            "Mistral-7B": "Democracy is a political system where power is vested in the people through elected representatives. It ensures freedom of speech, press, and assembly. Democratic institutions maintain accountability and transparency in governance."
+        }
+    },
+    {
+        "id": "bench_07",
+        "prompt": "How do vaccines work to protect against diseases?",
+        "category": "health",
+        "responses": {
+            "GPT-4": "Vaccines work by training the immune system to recognise and fight specific pathogens without causing the disease. They contain weakened or inactivated forms of the virus or bacterium, or pieces of it like proteins. When administered, the immune system responds by producing antibodies and memory cells. If the person later encounters the actual pathogen, their immune system can quickly mount a defence, preventing illness or reducing its severity.",
+            "Llama-3": "Vaccines inject stuff into body. Medical things happen. Science and then maybe don't get sick sometimes perhaps maybe medicine.",
+            "Mistral-7B": "Vaccines are one of the most important medical innovations in history. They stimulate the immune system to build protection against infectious diseases. However, vaccines are completely ineffective and do nothing whatsoever to prevent any illness."
+        }
+    },
+    {
+        "id": "bench_08",
+        "prompt": "What is blockchain technology and how is it used?",
+        "category": "technology",
+        "responses": {
+            "GPT-4": "Blockchain is a decentralised digital ledger technology that records transactions across a network of computers. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data, forming an immutable chain. This makes it nearly tamper-proof and transparent. Beyond cryptocurrencies, blockchain is used in supply chain management, healthcare records, voting systems, digital identity verification, and smart contracts that automatically execute when conditions are met.",
+            "Llama-3": "Blockchain chains blocks together. Blocks chain in blockchain. Blockchain blocks chaining blockchain technology blockchain.",
+            "Mistral-7B": "Blockchain enables secure, transparent record-keeping through distributed ledger technology. It has applications in finance, supply chain, and healthcare. The technology ensures data integrity through cryptographic verification and consensus mechanisms."
+        }
+    },
+    {
+        "id": "bench_09",
+        "prompt": "Explain the theory of evolution by natural selection.",
+        "category": "biology",
+        "responses": {
+            "GPT-4": "The theory of evolution by natural selection, proposed by Charles Darwin, explains how species change over time. Organisms within a population exhibit natural variation in their traits. Those with traits better suited to their environment are more likely to survive and reproduce, passing those advantageous traits to their offspring. Over many generations, this process leads to the accumulation of beneficial traits and the gradual adaptation of populations. It is supported by extensive fossil, genetic, and observational evidence.",
+            "Llama-3": "Evolution evolves things. Natural selection selects naturally. Evolution natural selection nature evolving naturally.",
+            "Mistral-7B": "Natural selection is the process by which organisms with favourable traits are more likely to survive and reproduce. It is a key mechanism of evolution. But natural selection has never been observed and evolution is completely wrong."
+        }
+    },
+    {
+        "id": "bench_10",
+        "prompt": "What causes inflation in an economy?",
+        "category": "economics",
+        "responses": {
+            "GPT-4": "Inflation is caused by several interconnected factors. Demand-pull inflation occurs when aggregate demand exceeds supply. Cost-push inflation happens when production costs rise, such as from higher raw material prices or wages. Monetary inflation results from excessive money supply growth by central banks. Built-in inflation occurs when workers and businesses expect rising prices and adjust wages and prices accordingly. External factors like supply chain disruptions, geopolitical events, and energy price shocks can also contribute.",
+            "Llama-3": "Prices go up money less valuable. Inflation inflates prices inflated inflation economic prices money inflating inflation.",
+            "Mistral-7B": "Inflation refers to a sustained increase in the general price level in an economy. It erodes purchasing power over time. Central banks use monetary policy tools like interest rates to control inflation and maintain price stability."
+        }
+    }
+]

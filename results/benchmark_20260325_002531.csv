@@ -1,0 +1,31 @@
+benchmark_id,category,prompt,model,relevance,quality,bias,consistency,consistency_internal,consistency_cross_model,final_score
+bench_01,technology,Explain machine learning in simple terms.,GPT-4,0.6739,0.8717,0.9991,0.7501,0.9994,0.5009,0.7831
+bench_01,technology,Explain machine learning in simple terms.,Llama-3,0.6333,0.6214,0.9957,0.7496,0.9992,0.5001,0.6707
+bench_01,technology,Explain machine learning in simple terms.,Mistral-7B,0.651,0.8394,0.9984,0.1759,0.3339,0.0179,0.568
+bench_02,science,What is climate change and why does it matter?,GPT-4,0.7329,0.9194,0.9993,0.9985,0.999,0.9979,0.9018
+bench_02,science,What is climate change and why does it matter?,Llama-3,0.4916,0.5632,0.9989,0.9929,0.9866,0.9991,0.6959
+bench_02,science,What is climate change and why does it matter?,Mistral-7B,0.7484,0.8474,0.9993,0.9058,0.8128,0.9989,0.8444
+bench_03,biology,How does photosynthesis work?,GPT-4,0.8088,0.859,0.9993,0.8245,0.9893,0.6596,0.836
+bench_03,biology,How does photosynthesis work?,Llama-3,0.4604,0.6056,0.9975,0.6876,0.8752,0.5,0.6013
+bench_03,biology,How does photosynthesis work?,Mistral-7B,0.7406,0.8143,0.9992,0.4168,0.3336,0.5,0.6618
+bench_04,health,What are the benefits of regular physical exercise?,GPT-4,0.8446,0.9044,0.999,0.7486,0.9952,0.502,0.8372
+bench_04,health,What are the benefits of regular physical exercise?,Llama-3,0.4602,0.675,0.9989,0.7506,0.9998,0.5014,0.6512
+bench_04,health,What are the benefits of regular physical exercise?,Mistral-7B,0.7228,0.8531,0.9979,0.3983,0.0029,0.7938,0.667
+bench_05,technology,Explain quantum computing to a beginner.,GPT-4,0.7416,0.9403,0.9991,0.8441,0.9997,0.6886,0.8597
+bench_05,technology,Explain quantum computing to a beginner.,Llama-3,0.6427,0.6,0.9987,0.7502,0.9956,0.5048,0.6645
+bench_05,technology,Explain quantum computing to a beginner.,Mistral-7B,0.6113,0.8146,0.9978,0.4213,0.3346,0.508,0.6322
+bench_06,politics,What is democracy and how does it function?,GPT-4,0.8332,0.8986,0.9993,0.999,0.999,0.9991,0.9177
+bench_06,politics,What is democracy and how does it function?,Llama-3,0.5883,0.6333,0.9991,0.9998,1.0,0.9995,0.7503
+bench_06,politics,What is democracy and how does it function?,Mistral-7B,0.7918,0.8516,0.9993,0.9995,0.9998,0.9992,0.8887
+bench_07,health,How do vaccines work to protect against diseases?,GPT-4,0.7484,0.8897,0.9989,0.7497,0.9995,0.5,0.8084
+bench_07,health,How do vaccines work to protect against diseases?,Llama-3,0.5414,0.7737,0.9607,0.7491,0.9979,0.5003,0.7104
+bench_07,health,How do vaccines work to protect against diseases?,Mistral-7B,0.6746,0.8429,0.9989,0.3926,0.3372,0.448,0.6492
+bench_08,technology,What is blockchain technology and how is it used?,GPT-4,0.7953,0.9254,0.9991,0.9996,0.9996,0.9995,0.9198
+bench_08,technology,What is blockchain technology and how is it used?,Llama-3,0.5832,0.6214,0.9859,0.9928,0.9856,0.9999,0.7417
+bench_08,technology,What is blockchain technology and how is it used?,Mistral-7B,0.6617,0.7655,0.9994,0.9996,0.9998,0.9995,0.8221
+bench_09,biology,Explain the theory of evolution by natural selection.,GPT-4,0.8103,0.8831,0.9993,0.9015,0.9998,0.8032,0.8725
+bench_09,biology,Explain the theory of evolution by natural selection.,Llama-3,0.7188,0.6462,0.9992,0.6385,0.6635,0.6136,0.6635
+bench_09,biology,Explain the theory of evolution by natural selection.,Mistral-7B,0.7626,0.8324,0.9992,0.4205,0.3344,0.5067,0.6758
+bench_10,economics,What causes inflation in an economy?,GPT-4,0.759,0.8973,0.9992,0.9939,0.9899,0.998,0.8975
+bench_10,economics,What causes inflation in an economy?,Llama-3,0.6641,0.675,0.9555,0.5405,0.0817,0.9992,0.6283
+bench_10,economics,What causes inflation in an economy?,Mistral-7B,0.713,0.8444,0.9992,0.9977,0.9996,0.9959,0.8661

@@ -1,0 +1,4 @@
+rank,prompt,model,relevance,quality,bias,consistency,consistency_internal,consistency_cross_model,final_score
+1,Explain machine learning in simple terms.,GPT-4,0.6739,0.8717,0.9991,0.7501,0.9994,0.5009,0.7831
+2,Explain machine learning in simple terms.,Llama-3,0.6333,0.6214,0.9957,0.7496,0.9992,0.5001,0.6707
+3,Explain machine learning in simple terms.,Mistral-7B,0.651,0.8394,0.9984,0.1759,0.3339,0.0179,0.568

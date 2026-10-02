@@ -1,0 +1,33 @@
+{
+  "weights": {
+    "relevance": 0.2417,
+    "quality": 0.4091,
+    "bias": 0.0071,
+    "consistency": 0.342
+  },
+  "raw_coefficients": {
+    "relevance": 0.401681,
+    "quality": 0.679929,
+    "bias": 0.011862,
+    "consistency": 0.568436
+  },
+  "intercept": -0.59703,
+  "metrics": {
+    "cv_r2_mean": 0.8900392397942266,
+    "cv_r2_std": 0.01277808543489438,
+    "cv_mae_mean": 0.09782935915098005,
+    "cv_mae_std": 0.004506435808448876,
+    "cv_rmse_mean": 0.1017465036602869,
+    "train_r2_mean": 0.9004179853195969,
+    "full_r2": 0.925050228594477,
+    "full_mae": 0.08266708811155529,
+    "full_rmse": 0.08695970937054126
+  },
+  "training_config": {
+    "alpha": 1.0,
+    "n_folds": 5,
+    "n_samples": 51,
+    "model_type": "Ridge Regression"
+  },
+  "trained_at": "2026-03-25T00:24:41.205519"
+}

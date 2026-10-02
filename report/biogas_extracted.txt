@@ -1,0 +1,966 @@
+Technical, economic and environmental assessment of household
+biogas digesters for rural communities
+Irene Pérez b, Marianna Garfí a,b,*, Erasmo Cadena a, Ivet Ferrer a,b
+a GEMMA e Group of Environmental Engineering and Microbiology, Department of Hydraulic, Maritime and Environmental Engineering,
+Universitat Politècnica de Catalunya. BarcelonaTech, c/Jordi Girona 1-3, Building D1, E-08034 Barcelona, Spain
+b GRECDH e Research Group on Cooperation and Human Development, Universitat Politècnica de Catalunya. BarcelonaTech, Avda. Diagonal 647,
+Building F, E-08028 Barcelona, Spain
+a r t i c l e i n f o
+Article history:
+Received 5 March 2013
+Accepted 5 July 2013
+Available online 7 August 2013
+Keywords:
+Anaerobic digester
+Biomethanation
+Environmental impact
+Life cycle assessment
+Low-cost technology
+Sustainable energy
+a b s t r a c t
+This study was carried out in response to the growing interest on household biogas digesters in Latin
+America, particularly in rural Andean communities. The aim was to compare the ﬁxed dome and plastic
+tubular digester in terms of biogas production, cost and environmental impact, using the life cycle
+assessment methodology. Design and operational parameters, construction materials and implementa-
+tion costs were based on our previous research and literature results for plastic tubular and ﬁxed dome
+digesters, respectively. According to this analysis, the main advantage of the plastic tubular digester was
+its ease of implementation and handling, and lower investment cost compared to the ﬁxed dome
+digester, which appeared to be more environmentally friendly.
+ 2013 Elsevier Ltd. All rights reserved.
+\
+1. Introduction
+Household biogas plants have been used for several decades in
+rural areas of Asian countries like China and India [1e4]. The most
+widely used household systems are the Chinese ﬁxed dome
+digester, the Indian ﬂoating drum digester and the Taiwanese
+plastic tubular digester [5e7]. The most appropriate design de-
+pends on weather conditions and socio-economic context [6,8].
+In Latin America, household digesters have been spreading since
+the 1980s in rural areas of tropical countries like Colombia and
+Costa Rica [9e11] and hilly regions of Peru and Bolivia [12,13]. The
+ﬁrst experiences on digesters implementation at the Peruvian
+Andes date back to the 1980s, when the Universidad Nacional de
+Cajamarca (UNC) together with the NGO INTITEC carried out a
+project on the implementation of Chinese ﬁxed dome digesters
+[14e16]. In 1988 there were almost one hundred ﬁxed dome di-
+gesters of 10e12 m3 implemented in rural zones of the Department
+of Cajamarca [14,15]. Basic objectives of the biogas program were
+[15,17]: (i) to generate energy for cooking and lighting, satisfying
+household needs; (ii) to avoid deforestation and its effect on soil
+erosion; (iii) to reduce environmental pollution; and (iv) to
+improve household sanitation. When the program started there
+was a lot of interest in this novel technology, but after a few years
+people abandoned the digesters and the implementation of new
+household biogas plants turned off. A viability analysis pointed out
+that the program failure was mainly due to the high capital cost of
+ﬁxed dome digesters; but also to social aspects, such as the lack of
+an appropriate management, family training and project moni-
+toring [15].
+During the last decade, there has been a growing interest in
+implementing plastic tubular digesters in rural Andean commu-
+nities; because of its low-cost, and ease of implementation and
+handling [12]. In 2007 Peruvian and international NGOs started a
+project dealing with the implementation of plastic tubular di-
+gesters adapted to rural Andean communities in the Department
+of Cajamarca [18,19]. The main goal was to improve the living
+quality of rural families, by providing a clean fuel to replace
+traditional biomass. The project also aimed to: (i) preserve the
+environment by reducing greenhouse gas (GHG) emissions and
+deforestation;
+(ii)
+decrease
+families
+expenses
+for
+fuel
+and
+* Corresponding author. GEMMA e Group of Environmental Engineering and
+Microbiology, Department of Hydraulic, Maritime and Environmental Engineering,
+Universitat Politècnica de Catalunya. BarcelonaTech, c/Jordi Girona 1-3, Building D1,
+E-08034, Barcelona, Spain. Tel.: þ34 934016463; fax: þ34 934017357.
+E-mail
+addresses:
+i.perez.bort@gmail.com
+(I.
+Pérez),
+marianna.garﬁ@
+nobel.upc.edu (M. Garfí), erasmo.cadena@gmail.com (E. Cadena), ivet.ferrer@
+upc.edu, ivet.ferrer@gmail.com (I. Ferrer).
+Contents lists available at SciVerse ScienceDirect
+Renewable Energy
+journal homepage: www.elsevier.com/locate/renene
+0960-1481/$ e see front matter  2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.renene.2013.07.017
+Renewable Energy 62 (2014) 313e318
+fertilizer; and (iii) reduce the workload and time spent by women
+and children for ﬁrewood collection [19]. A recent survey evalu-
+ated plastic tubular digesters technical, environmental and socio-
+economic impacts on rural communities of the Department of
+Cajamarca. The results showed how digesters improved household
+living conditions and economy, while reducing GHG emissions
+compared to traditional biomass [19]. However, the beneﬁts were
+restricted by a poor performance of anaerobic digestion at high
+altitude. Indeed, under the harsh weather conditions of the An-
+dean Plateau, digesters require proper insulation and longer hy-
+draulic retention time (HRT) compared to analogous digesters
+implemented in the Tropics, where they were originally devel-
+oped; which may increase the capital cost. From an environmental
+point of view, the eventual use of large amounts of plastic is a
+matter of concern. Optimizing the performance, economics and
+environmental sustainability of household digesters in rural Andes
+is currently considered a strong challenge [19].
+The aim of this research was to compare the performance, cost
+and potential environmental impact of ﬁxed dome and plastic
+tubular digesters implemented at high altitude.
+2. Material and methods
+2.1. Household digesters performance
+The study considered two types of household digesters adapted
+to Andean conditions: 1) ﬁxed dome e Chinese model and 2)
+plastic tubular e Taiwanese model (Fig. 1). Digesters performance
+comparison was based on a thorough literature review of case
+studies dealing with household digesters implementation at high
+altitude (Table 1).
+Chinese ﬁxed dome digesters (Fig. 1a) consist of a cylindrical
+chamber, a feedstock inlet and a digestate outlet, which also serves
+as a compensation tank [21]. Biogas is stored in the upper part of
+the chamber. When biogas production starts, the slurry is displaced
+into the compensation tank. The volume of the compensation tank
+is equal to the volume of biogas storage. Gas pressure increases
+with the volume of biogas stored and with the difference of slurry
+levels between the inside of the digester and the compensation
+tank. It is completely underground, and made with bricks and
+concrete [5,22].
+In plastic tubular digesters (Fig. 1b), wastewater ﬂows through a
+tubular polyethylene or PVC bag (the reactor) from the inlet to the
+outlet, while biogas is collected by means of a gas pipe connected to
+a reservoir. Because the system is unheated, in cold hilly regions the
+plastic bag is buried in a trench and covered by a greenhouse, aimed
+at increasing inner temperature and reducing temperature ﬂuctu-
+ations. Design criteria for the digester, trench and greenhouse
+depend on each location; at high altitude long HRT of 60e90 days
+are generally used [12]. Biogas is stored in a reservoir, connected to
+the kitchen or cooking area.
+2.2. Economic analysis
+The economic analysis was based on the digesters capital cost,
+which accounts for the major cost of household biogas plants.
+Design parameters of digesters implemented in Peru were adopted
+for the Chinese ﬁxed dome [15,23] and plastic tubular [12] digesters
+(Table 2). Operational parameters (Table 2) were also representa-
+tive of household digesters implemented at high altitude [8,24].
+Construction materials for each digester are summarised in Table 3.
+The considered lifespan was 20 years for all materials, except for
+plastic which was reduced to 5 years according to manufacturers’
+speciﬁcations and Nzila et al. [21].
+2.3. Life cycle assessment
+Life cycle assessment (LCA) is a methodological tool for the
+evaluation
+of
+environmental
+aspects
+and
+potential
+impacts
+through the whole life of a product, process or service; from raw
+materials extraction, to utilization and ﬁnal disposal. In brief, LCA
+comprises mass and energy balances applied to the system, plus an
+assessment of the environmental impacts associated to the inputs
+and outputs. According to the ISO 14040 [25], there are four main
+stages in LCA: goal and scope deﬁnition, inventory analysis, impact
+assessment and interpretation of the results.
+2.3.1. Goal and scope deﬁnition
+The goal of this LCA model was to compare the environmental
+impact of both household digesters,1) ﬁxed dome e Chinese model
+and 2) plastic tubular e Taiwanese model, implemented at high
+altitude.
+The main function of the system was to produce biogas for
+cooking; therefore the functional unit was deﬁned as the produc-
+tion of 1 m3 of biogas (under standard conditions).
+The system analysis included raw materials for household
+biogas plants construction and maintenance. Bearing in mind
+that both of them operated under the same conditions, the same
+biogas production rate was assumed (0.12 mbiogas
+3
+mdigester
+3
+d1)
+[24]. Biogas combustion for cooking and digestate reuse in
+agriculture were excluded from the system boundaries, since
+they were assumed to cause the same impacts in both scenarios.
+2.3.2. Inventory analysis
+Inventory data on digesters design and operation were the
+same as for the economic analysis, as the same construction ma-
+terials and lifespan were considered (Tables 2 and 3). Household
+digesters were then described and quantiﬁed with reference to the
+functional unit (Table 4). Data concerning the embodied environ-
+mental aspects of materials were taken from Ecoinvent v2.2
+database [26].
+Fig. 1. Schematic diagram of the studied household digesters: (a) ﬁxed dome e Chi-
+nese model [20] and (b) plastic tubular e Taiwanese model [12].
+I. Pérez et al. / Renewable Energy 62 (2014) 313e318
+314
+2.3.3. Impact assessment
+Potential environmental impacts were evaluated using the
+software SimaPro 7.3 (PRé Consultants) and Ecoinvent v2.2 data-
+base [26]. This analytical tool is in accordance with ISO 14040
+standards [27]. The following impact categories were evaluated:
+Abiotic Depletion (AD), Acidiﬁcation (AP), Eutrophication (EP) and
+Global Warming Potential (GWP). The results were then expressed
+as a quantiﬁcation of the potential contribution of materials to each
+impact category.
+3. Results and discussion
+3.1. Household digesters performance at high altitude
+Firstly, small-scale digesters were compared from a technical
+point of view. The performance of ﬁxed dome and plastic tubular
+models implemented at high altitude in developing countries is
+summarised in Table 1. Literature results show how the biogas
+production rate may range between 0.03 and 0.7 biogasm3 digesterm3
+d1, depending on the feedstock (i.e. cow, guinea pig and sheep
+manure) and operational parameters (i.e. temperature, HRT and
+OLR). Considering only digesters treating cow manure, among the
+most common feedstocks in rural zones of developing countries,
+the
+biogas
+production
+rate
+may
+range
+between
+0.07
+and
+0.47 mbiogas
+3
+mdigester
+3
+d1 in plastic tubular digesters adapted to
+Andean
+conditions
+[12,24];
+and
+between
+0.35
+and
+0.7 mbiogas
+3
+mdigester
+3
+d1 in ﬁxed dome digesters [8,28e30]. In all
+cases the methane content in biogas was about 55e60%. The
+different location of ﬁxed dome and tubular digesters (1000 vs.
+2800e3400 m.a.s.l), feedstock composition and operational pa-
+rameters (i.e. HRT, OLR) may account for differences on the biogas
+production rate.
+Kanwar and Guleri [8] compared Chinese ﬁxed dome and plastic
+tubular digesters (without greenhouse) implemented in India at an
+altitude of 1300 m.a.s.l. In the plastic tubular model, the biogas
+production
+rate
+dropped
+by 70% during winter months
+as
+compared to summer months; while in the ﬁxed dome model the
+biogas production rate decreased by only 16%. Due to the lack of
+insulation, in the plastic tubular digester there was a wide tem-
+perature ﬂuctuation, which reduced the average temperature of the
+system. As a result, the biogas production rate was about 30% lower
+in the plastic tubular model than in the ﬁxed dome model.
+Plastic tubular digesters were adapted to Andean conditions by
+providing digesters insulation and substituting a simple roof used
+in Tropical regions by a greenhouse. In this manner, the liquor
+temperature remained fairly constant at around 20 C [24,31].
+Nevertheless, the systems remained within the psychrophilic
+temperature range, and produced less biogas than mesophilic ones,
+i.e. digesters located in Tropical regions (>1 mbiogas
+3
+mdigester
+3
+d1)
+Table 1
+Performance of small-scale digesters at high altitude.
+Reference
+Location and
+m.a.s.l (m)
+Digester design
+Temperature
+(C)
+V (m3)
+HRT
+(d)
+Feedstock
+OLR
+(kg VS mdigester
+3
+d1)
+Biogas production
+rate (mbiogas
+3
+mdigester
+3
+d1)
+Methane
+(% CH4)
+Ferrer et al. [12]
+Peru
+2800e3400
+Tubular
+polyethylene
+or PVC
+<25
+2.4e7.5
+60e90
+Cow manure
+0.22e1.29
+0.07e0.47
+65
+Garfí et al. [31]
+Peru
+2800
+Tubular PVC
+<25
+7.5
+75
+Guinea pig
+manure
+0.59
+0.04
+60
+Garfí et al. [24]
+Peru
+2800
+Tubular PVC
+<25
+7.5
+60e90
+Cow and guinea
+pig manure
+0.34e1
+0.12 (cow)
+0.03 (guinea pig)
+0.08 (codigestion of
+cow and guinea pig)
+55e60
+Kanwar and
+Guleri [8]
+India
+1300
+Tubular
+neoprene
+Fixed dome
+(bricks)
+<25
+1.2
+55
+Cattle dung
+<1
+0.50 (tubular neoprene)
+0.68 (ﬁxed dome)
+55
+Kalia and
+Kanwar [29]
+India
+1300
+Fixed dome
+<25
+2.4
+55
+Cattle dung
+<1
+0.4e0.7
+55e60
+Kanwar et al. [28]
+India
+1300
+Fixed dome
+<25
+2
+55
+Cattle dung
+<1
+0.35e0.45
+55e60
+Tasdemiroglu
+[30]
+Turkey
+1000
+Fixed dome
+<25
+9.5
+45
+Cattle and
+sheep dung
+0.38
+0.34e0.5
+60
+Note: HRT: hydraulic residence time; OLR: organic loading rate; V: useful volume.
+Table 2
+Design and operation parameters of household digesters located at high altitude.
+Parameter
+Fixed dome e
+Chinese model
+Plastic tubular e
+Taiwanese model
+Feedstock
+Cow manure
+Cow manure
+Inﬂuent (% TS)
+6e8 [8,24]
+6e8 [8,24]
+Total and useful volume (m3)
+10 and 8 [23]
+10 and 7.5 [24]
+Temperature (C)
+<25 [24]
+<25 [24]
+Hydraulic residence
+time (days)
+60e90 [24]
+60e90 [24]
+Organic loading
+rate (kgVS mdigester
+3
+d1)
+1 [8,24]
+1 [8,24]
+Biogas production
+rate (mbiogas
+3
+mdigester
+3
+d1)
+0.12 [24]
+0.12 [24]
+Table 3
+Main construction materials for household digesters located at high altitude and
+cost over a lifespan of 20 years.
+Fixed dome e Chinese model
+Plastic tubular e Taiwanese model
+Materials
+Price ($)
+Materials
+Price ($)
+Bricks
+806
+Bricks
+23
+Cement
+418
+Cement
+8
+Sand and Gravel
+21
+Sand
+5
+Metals (iron rods,
+screws, nails)
+110
+Metals (iron rods, screws,
+nails)
+174
+Geomembrane e
+digester (PVC)
+1247
+Plastic e greenhouse (LDPE)
+117
+Plastic and accessories for
+biogas pipelines and
+cookstove (HDPE, PVC
+and clay)
+77
+Plastic and accessories
+for biogas pipelines and
+cookstove (HDPE,
+PVC and clay)
+21
+Manpower
+532
+Manpower
+134
+Total cost
+1963
+Total cost
+1729
+Note: PVC: polyvinyl chloride; LDPE: low-density polyethylene; HDPE: high-density
+polyethylene.
+I. Pérez et al. / Renewable Energy 62 (2014) 313e318
+315
+[10,21]. In this context, the codigestion of manure with other local
+waste constitutes an alternative to improve the biogas production
+rate [24].
+Regarding the construction, operation and maintenance of
+household biogas plants, the construction of ﬁxed dome digesters is
+labour intensive and requires skilled supervision [21]. Construction
+materials are not always available in rural and remote commu-
+nities, but they are generally available in larger nearby commu-
+nities. Plastic tubular digesters are characterised by the ease of
+implementation and handling. Most importantly, they do not
+require specialised manpower. On the other hand, high quality
+prefabricated plastic bags might not be locally available and require
+importation. Nevertheless, all construction materials can be easily
+transported.
+The operation and ordinary maintenance of both plants does not
+require skilled operators, but households should be trained to un-
+derstand the system [32]. Both digesters should be fed every day
+and digestate should be correctly managed, disposed or reused in
+agriculture as fertilizer [18]. De-sludging of accumulating solids in
+the bottom of reactors is required on exceptional basis only. Both
+plants should also be regularly checked for biogas leakage in the
+reactor or pipeline. Plastic bags are susceptible to mechanical
+damage and have a short operational life, typically <5 years [21].
+Extraordinary maintenance might be needed if cracks appear in
+ﬁxed dome digesters, as a result of atmospheric temperature ﬂuc-
+tuation or earthquake.
+On the whole, plastic tubular digesters should be preferred in
+remote rural communities, where construction materials trans-
+port might be problematic and specialised manpower not easily
+available.
+3.2. Economic analysis
+The economic assessment was based on digesters capital cost,
+1963 $ for the ﬁxed dome model and 1729 $ for the plastic tubular
+model (Table 3). Bricks and cement accounted for 60% of the total
+cost in the ﬁxed dome digester. On the other hand, the geo-
+membrane was the most expensive material in the plastic tubular
+digester (around 70% of the total cost). Manpower was about 30 and
+7% of total cost in the ﬁxed dome and plastic tubular digester,
+respectively.
+A lifespan of 20 years was considered for all materials, except for
+plastic, which was reduced to 5 years in accordance with manu-
+facturers’ speciﬁcations and Nzila et al. [21]. In this way, the capital
+cost of the tubular digester included 4 times the geomembrane and
+greenhouse plastic. The initial investment cost would then be 706 $
+(341 $ for the geomembrane and greenhouse plastic, plus 365 $ for
+the rest of materials), which represents 36% of the ﬁxed dome
+digester investment cost. However, the tubular model would
+require an investment of another 341 $ every 5 years.
+Recently, a new ﬁxed dome model (Camartec) has been devel-
+oped to minimize construction materials and implementation costs
+with respect to the traditional Chinese model, by reducing the size
+of the main chamber and making a second compensation chamber
+[32]. Up to date, this model has been mainly implemented in Africa
+[21]. Some authors have estimated that, the capital cost of the
+Camartec model could be some 50% lower compared to the Chinese
+model in the Peruvian Andes context [23].
+Small-scale digesters in the Peruvian Andes are mainly imple-
+mented in rural households whose economy is based on subsis-
+tence agriculture (self-sufﬁcient farming), and whose income is
+lower than 500 dollars per month [19]. Carbon emission trading
+might be considered in large-scale implementation programmes,
+aimed at co-ﬁnancing digesters to make them affordable for rural
+households.
+3.3. Life cycle assessment
+Potential environmental impacts of ﬁxed dome and plastic
+tubular biogas plants located at high altitude are shown in Fig. 2.
+The individual contribution of each material is represented sepa-
+rately, in order to identify the most relevant issues of each scenario.
+The distribution of the global impact between different materials
+(in %) is summarised in Table 5.
+The ﬁxed dome model showed the lowest impact in all cate-
+gories (Fig. 2), appearing as the best alternative from an environ-
+mental point of view. The highest impact of the tubular digester
+was attributed to the plastic employed for the greenhouse and
+biogas reservoir construction (55e90% depending on the category),
+followed by the geomembrane (10e35% depending on the cate-
+gory), while the other items accounted for less than 10 % of the total
+impact in each category (Table 5). In the ﬁxed dome digester, the
+main impact was attributed to cement (w50% in all categories) and
+bricks (w30% in all categories) used for the dome construction
+(Table 5).
+In the following categories, Abiotic Depletion, Acidiﬁcation and
+Eutrophication, the potential impact of the plastic tubular digester
+was between 1.5- and 7-fold that of the Chinese model (Fig. 2aec).
+This means that the impact of construction materials was much
+higher for the tubular digester (i.e. plastic and geomembrane) than
+for the ﬁxed dome digester (i.e. cement and bricks).
+However, in terms of Global Warming Potential both systems
+presented similar results (0.24 and 0.26 kg CO2eq mbiogas
+3
+) (Fig. 2d),
+meaning that total CO2 emissions of construction materials were
+equivalent for the ﬁxed dome (i.e. cement and bricks) and tubular
+(i.e. plastics and geomembrane) digesters. Even though this study
+was mainly focussed on the construction phase, it is worthwhile
+mentioning that global warming may decrease as a result of di-
+gesters operation. Indeed, biogas combustion produces carbon di-
+oxide, a GHG 21 times less powerful than methane, released when
+animal manure is left in the ﬁelds without any treatment [19,21,33].
+Moreover, biogas combustion generates less GHG emissions than
+traditional biomass, such as ﬁrewood, which is generally used by
+rural households [19,34,35]. Nzila et al. [21] compared the LCA of
+plastic tubular and Chinese digesters construction and operation in
+Kenya, observing a GWP reduction of about 1 kg CO2eq after the
+implementation of both models. Previous studies which only
+considered digesters operation, reported a CO2eq emission reduction
+between 4 and 9 tons per year per household digester in template
+and tropical regions, respectively [36,37]. A CO2eq emission reduc-
+tion of 2.7 tons per year per household was observed for plastic
+tubulardigesters implemented in the Peruvian Andes [19]. Certainly,
+Table 4
+Inventory analysis of household digesters implemented at high altitude. Values are
+referred to the functional unit (1 m3 of biogas).
+Materials
+Fixed dome model
+(kg FU1)
+Plastic tubular
+model (kg FU1)
+Bricks (sandelime)
+1.16
+0.03
+Cement
+0.35
+7.20E03
+Sand
+1.24
+0.70
+Gravel
+0.86
+e
+Metals (iron rods, screws, nails)
+0.01
+2.30E03
+Plastic and accessories for
+biogas pipelines (HDPE and PVC)
+1.04E03
+7.80E03
+Geomembrane e digester (PVC)
+e
+2.40E02
+Greenhouse and biogas
+reservoir (LDPE)
+e
+7.20E02
+Cookstove (clay)
+1.00E03
+1.10E03
+Note: HDPE: high-density polyethylene; PVC: polyvinyl chloride; LDPE: low-density
+polyethylene.
+I. Pérez et al. / Renewable Energy 62 (2014) 313e318
+316
+the reduction of CO2 emissions depends on the biogas production
+rate, which is more favourable in tropical and template regions.
+Household tubular digesters are generally regarded as an envi-
+ronmentally sustainable technology [9,19,21]. Indeed, they reduce
+GHG emissions and deforestation by replacing ﬁrewood and
+traditional biomass [19,38]. Comparing the studied models, ﬁxed
+dome digesters appeared to be more environmentally friendly as a
+result of construction materials. The highest impact of the tubular
+digester may be explained by the type (plastics vs. bricks and
+cement) and lifespan (5 years for plastics vs. 20 years for concrete
+and bricks) of construction materials. In order to improve the
+environmental performance of tubular digesters, the use of plastics
+should be minimised, the lifespan of construction materials
+expanded and more environmentally respectful materials used. For
+instance, bioplastics appear as potential solution to reduce the
+environmental impact of this system. Bioplastics present several
+advantages over conventional petroleum-based plastics, such as
+decreased CO2 emissions and lower energy consumption [39,40].
+Nevertheless, the economic and environmental sustainability of
+bio-based plastics should be studied in depth before replacing
+current materials [41].
+4. Conclusions
+This study compared two household digester models imple-
+mented at high altitude. Over a lifespan of 20 years, the capital cost
+was 12% lower for the plastic tubular digester compared to the ﬁxed
+dome digester. Moreover, the initial investment cost of the tubular
+digester was 1/3 that of the ﬁxed dome digester, although it would
+require some extra investment every 5 years to replace plastic
+materials. The LCA showed how the plastic tubular digester caused
+the highest impact; as a result of the relatively short lifespan of
+plastic materials and geomembrane. In the ﬁxed dome model, most
+environmental impact corresponded to concrete and bricks. The
+main advantage of the tubular digester was its ease of imple-
+mentation and handling, and lower investment cost compared to
+the ﬁxed dome digester, which appeared to be more environmen-
+tally friendly.
+(a) 
+0,0E+00
+5,0E-04
+1,0E-03
+1,5E-03
+2,0E-03
+2,5E-03
+3,0E-03
+3,5E-03
+4,0E-03
+4,5E-03
+Chinese model
+Plastic tubular model
+kg Sb eq  m-3 biogas
+Abiotic depletion potential
+(b) 
+0,0E+00
+1,0E-03
+2,0E-03
+3,0E-03
+4,0E-03
+5,0E-03
+6,0E-03
+Chinese model
+Plastic tubular model
+kg SO2 eq  m-3 biogas
+Acidification potential
+(c) 
+0,0E+00
+2,0E-05
+4,0E-05
+6,0E-05
+8,0E-05
+1,0E-04
+1,2E-04
+1,4E-04
+1,6E-04
+Chinese model
+Plastic tubular model
+kg KPO4
+3- eq  m-3 biogas
+Eutrophication potential
+(d) 
+0,0E+00
+5,0E-02
+1,0E-01
+1,5E-01
+2,0E-01
+2,5E-01
+3,0E-01
+Chinese model
+Plastic tubular model
+kg CO2 eq  m-3 biogas
+Global warming potential
+Fig. 2. Comparison of potential environmental impacts of household digesters (ﬁxed dome e Chinese model and plastic tubular e Taiwanese model) per m3 of biogas.
+I. Pérez et al. / Renewable Energy 62 (2014) 313e318
+317
+Acknowledgements
+The authors acknowledge the support of the Centre for Devel-
+opment Cooperation, Universitat Politècnica de Catalunya e Bar-
+celonaTech (Project CCD2010-O031). Marianna Garfí is grateful to
+the Secretary General of Universities, Ministry of Education (Spain)
+(Programa Nacional de Movilidad de Recursos Humanos del Plan
+Nacional de I-Dþi 2008e2011). Erasmo Cadena is grateful to the
+CONACyT (México) for the award of a Postdoctoral fellowship.
+References
+[1] Chen L, Zhao L, Ren C, Wang F. The progress and prospects of rural biogas
+production in China. Energy Policy 2012;51:58e63.
+[2] Chanakya HN, Bhogle S, Arun RS. Field experience with leaf litter-based biogas
+plants. Energ Sust Develop 2005;9:49e62.
+[3] Jagadish KS, Chanakya HN, Rajabapaiah P, Anand V. Plug ﬂow digestors for
+biogas generation from leaf biomass. Biomass Bioenerg 1998;14:415e23.
+[4] Yu L, Yaoqiu K, Ningsheng H, Zhifeng W, Lianzhong X. Popularizing
+household-scale biogas digesters for rural sustainable energy development
+and greenhouse gas mitigation. Renew Energy 2008;33:2027e35.
+[5] Nazir M. Biogas plants construction technology for rural areas. Bioresour
+Technol 1991;35:283e9.
+[6] Singh SP, Vatsa DK, Verma HN. Problems with biogas plants in Himachal
+Pradesh. Bioresour Technol 1997;59:69e71.
+[7] Shian ST, Chang MC, Ye YT, Chang W. The construction of simple biogas di-
+gesters in the province of Szechwan, China. Agric Wastes 1979:247e58.
+[8] Kanwar SS, Guleri RL. Performance evaluation of a family-size, rubber-balloon
+biogas plant under hilly conditions. Bioresour Technol 1994;50:119e21.
+[9] Ciotola RJ, Lansing S, Martin JF. Emergy analysis of biogas production and
+electricity
+generation
+from
+small-scale
+agricultural
+digesters.
+Ecol
+Eng
+2011;37:1681e91.
+[10] Lansing S, Víquez J, Martínez H, Botero R, Martin J. Quantifying electricity
+generation and waste transformations in a low-cost, plug-ﬂow anaerobic
+digestion system. Ecol Eng 2008;34:332e48.
+[11] Ni JQ, Naveau H, Nyns EG. Biogas: exploitation of a renewable energy in Latin
+America. Renew Energy 1993;3:763e79.
+[12] Ferrer I, Garfí M, Uggetti E, Ferrer-Martí L, Calderon A, Velo E. Biogas pro-
+duction in low-cost household digesters at the Peruvian Andes. Biomass
+Bioenerg 2011;35:1668e74.
+[13] Martí-Herrero J. Transfer of low-cost plastic biodigester technology at
+household level in Bolivia. Livestock Res Rural Develop 2007;19. Article #192.
+Available at: http://www.lrrd.org/lrrd19/12/mart19192.htm.
+[14] Hilares S. El empleo de biodigestores en el Perú. ITINTEC Dirección de Tec-
+nología; 1988.
+[15] Spagnoletta SA. Viability study for the application of small size biodigesters in
+the Andean rural zone of Cajamarca (Peru). Available at: http://grecdh.upc.edu/
+docencia/treballs-dirigits/altres/spagnoletta-sebastiano-alessandro; 2007.
+[16] Verástegui J, Mateo M, Lewis F. Generación de biogás en las Ares Rurales del
+Perú. ITINTEC Publication; 1980.
+[17] Bruno MM. Situación y perspectivas de la biotecnología de conversión de
+biomasa a combustibles, productos químicos y alimentos. ITINTEC; 1987.
+[18] Garfí M, Gelman P, Comas J, Ferrer I. Agricultural reuse of the digestate from
+low-cost tubular digesters in rural Andean communities. Waste Manage
+2011;31:2584e9.
+[19] Garfí M, Ferrer-Marti L, Velo E, Ferrer I. Evaluating beneﬁts of low-cost
+household digesters for rural Andean communities. Renew Sust Energ Rev
+2012;16:575e81.
+[20] Abbasi T, Tauseef SM, Abbasi SA. Anaerobic digestion for global warming control
+and energy generation d an overview. Renew Sust Energ Rev 2012;16:3228e42.
+[21] Nzila C, Dewulf J, Spanjers H, Tuigong D, Kiriamiti H, van Langenhove H. Multi
+criteria sustainability assessment of biogas production in Kenya. Appl Energy
+2012;93:496e506.
+[22] Sasse L, Kellner C, Kimaro A. Improved biogas unit for developing countries
+[Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ)]. Nairobi, Kili-
+mani: GmbH, Vieweg & Sohn Verlagsgesellschaft Braunschweig; 1991.
+[23] Veen M, Sanchiz JB, Acosta-Bedoya F, Ameller-Terrazas G. Estudio de Facti-
+bilidad para un Programa Nacional de biogas domestico en Perú. Available at:
+http://www.snvworld.org/sites/www.snvworld.org/ﬁles/publications/
+estudio_factibilidad_programa_biodigestores_domesticos_peru_corregido_
+ok_20ago2012.pdf; 2009.
+[24] Garfí M, Ferrer-Martí L, Perez I, Flotats X, Ferrer I. Co-digestion of cow and
+guinea pig manure in low-cost tubular digesters at high altitude. Ecol Eng
+2011;37:2066e70.
+[25] ISO, International Organization for Standardization, ISO 14040:2006. Envi-
+ronmental management e life cycle assessment e principles and framework.
+Geneva, Switzerland: International Organization for Standardization; 2006.
+[26] Swiss Centre for Life Cycle Inventories. Ecoinvent Data v2.2. Dübendorf,
+Switzerland: Swiss Centre for Life Cycle Inventories; 2010.
+[27] ISO, International Organization for Standardization, ISO 14042:2000. Envi-
+ronmental management e life cycle assessment e life cycle impact
+assessment. Geneva, Switzerland: International Organization for Stan-
+dardization; 2000.
+[28] Kanwar SS, Gupta RK, Guleri RL, Singh SR. Performance evaluation of a 1 m3
+modiﬁed, ﬁxed-dome Deenbandhu biogas plant under hilly conditions. Bio-
+resour Technol 1994;50:239e41.
+[29] Kalia AK, Kanwar SS. Long-term evaluation of a ﬁxed dome Janata biogas plant
+in hilly conditions. Bioresour Technol 1998;65:61e3.
+[30] Tasdemiroglu E. Review of the biogas technology in Turkey. Biomass 1988;17:
+137e48.
+[31] Garfí M, Ferrer-Martí L, Velo E, Ferrer I. Psychrophilic anaerobic digestion of
+guinea pig manure in low-cost digesters at high altitude. Bioresour Technol
+2011;102:6356e9.
+[32] Sasse L. Biogas plants. German Appropriate Technology Exchange (GATE) and
+German Agency for Technical Cooperation (GTZ) GmbH; 1988.
+[33] Arthur R, Baidoo MF, Antwi E. Biogas as a potential renewable energy source:
+a Ghanaian case study. Renew Energy 2011;36:1510e6.
+[34] Bhattacharya SC, Salam PA. Low greenhouse gas biomass options for cooking
+in the developing countries. Biomass Bioenerg 2002;22:305e17.
+[35] Integrated Pollution Prevention and Control. IPPC guidelines for national
+greenhouse gas inventories. Japan: IGES; 2006.
+[36] Pathak H, Jain N, Bhatia A, Mohanty S, Gupta N. Global warming mitigation
+potential of biogas plants in India. Environ Monit Assess 2009;157:407e18.
+[37] Katuwal H, Bohara AK. Biogas: a promising renewable technology and its impact
+on rural households in Nepal. Renew Sust Energ Rev 2009;13:2668e74.
+[38] Pei-dong Z, Guomei J, Gang W. Contribution to emission reduction of CO2 and
+SO2 by household biogas construction in rural China. Renew Sust Energ Rev
+2007;11:1903e12.
+[39] Gironi F, Piemonte V. Bioplastics and petroleum-based plastics: strengths and
+weaknesses. Energy Source Part A 2011;33:1949e59.
+[40] Yu J, Chen L. The greenhouse gas emissions and fossil energy requirement of
+bioplastics from cradle to gate of a biomass reﬁnery. Environ Sci Technol
+2008;42:6961e6.
+[41] Álvarez-Chávez C, Edwards S, Moure-Eraso R, Geiser K. Sustainability of bio-
+based plastics: general comparative analysis and recommendations for
+improvement. J Clean Prod 2012;23:47e56.
+Table 5
+Contribution of construction materials to the potential environmental impact (in %) of household digesters at high altitude.
+Construction materials
+Abiotic Depletion
+Acidiﬁcation
+Eutrophication
+Global Warming Potential
+Fixed dome
+model
+Plastic tubular
+model
+Fixed dome
+model
+Plastic tubular
+model
+Fixed dome
+model
+Plastic tubular
+model
+Fixed dome
+model
+Plastic tubular
+model
+Bricks (sandelime)
+31.76
+0.47
+31.35
+0.13
+31.16
+0.62
+31.22
+0.86
+Cement
+53.98
+0.56
+50.92
+0.15
+46.71
+0.64
+54.74
+1.05
+Sand
+4.22
+0.05
+7.33
+0.03
+7.53
+0.13
+5.25
+0.13
+Gravel
+1.33
+0.00
+2.55
+0.00
+3.53
+0.00
+1.57
+0.00
+Metals (iron rods, screws, nails)
+6.52
+0.76
+6.50
+0.21
+10.42
+1.62
+6.12
+1.32
+Plastic and accessories for
+biogas pipelines (HDPE and PVC)
+2.19
+6.33
+1.33
+1.98
+0.65
+5.89
+1.09
+9.32
+Geomembrane e digester (PVC)
+0.00
+17.48
+0.00
+9.89
+0.00
+34.11
+0.00
+19.10
+Greenhouse and biogas
+reservoir (LDPE)
+0.00
+74.35
+0.00
+87.62
+0.00
+56.98
+0.00
+68.22
+Cookstove (clay)
+0.01
+0.00
+0.01
+0.00
+0.01
+0.01
+0.01
+0.01
+Total impact
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+Note: HDPE: high-density polyethylene; PVC: polyvinyl chloride; LDPE: low-density polyethylene.
+I. Pérez et al. / Renewable Energy 62 (2014) 313e318
+318

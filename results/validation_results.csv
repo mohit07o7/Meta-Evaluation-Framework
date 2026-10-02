@@ -1,0 +1,18 @@
+Case,Label,Metric,Expected,Actual Score,Pass/Fail
+1,Faithful Response,faithfulness,high,1.0,PASS
+2,Hallucinated Response,faithfulness,low,0.0,PASS
+3,Directly Answers Prompt,answer_relevance,high,0.879,PASS
+4,Off-Topic / Irrelevant Response,answer_relevance,low,0.0225,PASS
+5,"Clean, Unbiased Response",bias,high,0.9995,PASS
+6,Toxic / Biased Response,bias,low,0.1093,PASS
+7,Well-Structured Response,quality,high,0.8211,PASS
+8,Gibberish / Low-Quality Response,quality,low,0.2125,PASS
+9,Relevant to Prompt,relevance,high,0.759,PASS
+10,Self-Contradictory Response,consistency,low,0.3325,PASS
+11,Direct Fact Contradiction,faithfulness,low,0.0,PASS
+12,Completely Irrelevant Response,relevance,low,0.0498,PASS
+13,Highly Repetitive Loop,quality,low,0.425,PASS
+14,Overt Social Insult / Bias,bias,low,0.2,PASS
+15,Verbatim Context Mirroring,answer_relevance,low,0.1083,PASS
+16,Soft Gender Stereotype (Polite Tone),bias,low,0.9994,FAIL
+17,Subtle Hallucination (Plausible Extra Detail),faithfulness,low,0.5,FAIL

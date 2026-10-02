@@ -1,0 +1,31 @@
+prompt,model,relevance,quality,bias,consistency,final_score
+Describe the water cycle.,GPT-4,0.7972,0.8063,0.9993,0.7253,0.8392
+Describe the water cycle.,Llama-3,0.584,0.55,0.9825,0.7478,0.6997
+Describe the water cycle.,Mistral-7B,0.7816,0.6864,0.9993,0.002,0.6953
+Explain natural selection.,GPT-4,0.8361,0.85,0.9993,0.997,0.9045
+Explain natural selection.,Llama-3,0.7365,0.7091,0.9992,0.8395,0.8108
+Explain natural selection.,Mistral-7B,0.7789,0.8333,0.9991,0.6413,0.8269
+Explain quantum computing.,GPT-4,0.7573,0.8167,0.9991,0.7601,0.833
+Explain quantum computing.,Llama-3,0.7197,0.6077,0.9985,0.7632,0.7679
+Explain quantum computing.,Mistral-7B,0.6907,0.7318,0.9976,0.4974,0.7487
+How does photosynthesis work?,GPT-4,0.7784,0.7444,0.9993,0.7423,0.8197
+How does photosynthesis work?,Llama-3,0.4759,0.6438,0.9961,0.7389,0.6874
+How does photosynthesis work?,Mistral-7B,0.7066,0.7474,0.999,0.2539,0.722
+How does the internet work?,GPT-4,0.6356,0.7643,0.9994,0.7437,0.7749
+How does the internet work?,Llama-3,0.5915,0.6636,0.9991,0.749,0.7351
+How does the internet work?,Mistral-7B,0.648,0.7423,0.9988,0.0029,0.6625
+What are the benefits of exercise?,GPT-4,0.774,0.7792,0.9991,0.7592,0.8293
+What are the benefits of exercise?,Llama-3,0.5277,0.6571,0.9993,0.7507,0.7114
+What are the benefits of exercise?,Mistral-7B,0.7096,0.7318,0.999,0.2342,0.7162
+What is artificial intelligence?,GPT-4,0.8387,0.8545,0.9992,0.9987,0.9068
+What is artificial intelligence?,Llama-3,0.7023,0.6824,0.9967,0.9998,0.8155
+What is artificial intelligence?,Mistral-7B,0.7166,0.7808,0.9993,0.9995,0.8458
+What is blockchain?,GPT-4,0.8276,0.7286,0.999,0.9961,0.871
+What is blockchain?,Llama-3,0.6563,0.6929,0.9938,0.9746,0.7976
+What is blockchain?,Mistral-7B,0.6613,0.8,0.9994,0.9929,0.8303
+What is climate change?,GPT-4,0.7573,0.8545,0.9994,0.9935,0.8776
+What is climate change?,Llama-3,0.472,0.55,0.999,0.9675,0.6976
+What is climate change?,Mistral-7B,0.768,0.8,0.9993,0.9911,0.8673
+What is machine learning?,GPT-4,0.8291,0.8559,0.9987,0.7515,0.8666
+What is machine learning?,Llama-3,0.6603,0.6214,0.9957,0.7498,0.7478
+What is machine learning?,Mistral-7B,0.7542,0.7348,0.9968,0.3062,0.7428

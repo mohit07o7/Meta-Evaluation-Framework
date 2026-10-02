@@ -1,0 +1,26 @@
+# Environments
+venv/
+.venv/
+venv_new/
+env/
+.env
+
+# Secrets
+*.env
+secrets.toml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
