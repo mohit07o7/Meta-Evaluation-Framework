@@ -4,17 +4,17 @@ A research-grade AI benchmarking and stress-testing system designed to evaluate 
 
 ---
 
-## 🚀 Key Framework Upgrades (Final Year Project)
+## 🚀 Key Framework Upgrades 
 
-### 🔥 Upgrade 1: Learning to Rank (AIML Core)
+###  Upgrade 1: Learning to Rank (AIML Core)
 Replaced arbitrary heuristic weights with a **Ridge Regression model** trained on human preference datasets (Achieved **R²=0.89** in cross-validation). The aggregator now learns how highly a human would value Relevance vs. Quality vs. Bias.
 
-### 🔥 Upgrade 2: RAG (Retrieval-Augmented Generation) Evaluation
+###  Upgrade 2: RAG (Retrieval-Augmented Generation) Evaluation
 Industry-relevant support for context-aware pipelines. Includes:
 - **Faithfulness (Hallucination Detector)**: Uses NLI (DeBERTa-v3-small) to verify if model claims are grounded in provided context.
 - **Answer Relevance**: Detects "context-echoing" vs genuine answering using prompt-response similarity vs context-response similarity.
 
-### 🔥 Upgrade 3: Batch Processing & Analytics Pipeline
+###  Upgrade 3: Batch Processing & Analytics Pipeline
 Scalable software engineering for large-scale benchmarks:
 - **Async Execution**: Multi-threaded processing of thousands of prompts using `ThreadPoolExecutor`.
 - **Statistical Dashboard**: Rich Streamlit visualisations including Radar Charts, Score Heatmaps, and Distribution Box Plots.
